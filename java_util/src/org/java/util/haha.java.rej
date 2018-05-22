@@ -1,0 +1,7 @@
+diff a/java_util/src/org/java/util/haha.java b/java_util/src/org/java/util/haha.java	(rejected hunks)
+@@ -0,0 +1,5 @@
++package org.java.util;
++
++public class haha {
++
++}
